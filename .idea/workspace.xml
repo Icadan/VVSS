@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5f40161-1e41-4841-94b7-53e6c9901961" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Corigent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/controller/NoteController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/main/StartApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/model/Corigent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/model/Elev.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/model/Medie.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/model/Nota.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepository.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepositoryMock$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/repository/ClasaRepositoryMock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/repository/EleviRepository.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/repository/EleviRepositoryMock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/repository/NoteRepository.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/repository/NoteRepositoryMock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/utils/ClasaException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/note/utils/Constants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/note/test/AddNotaTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/note/test/CalculeazaMediiTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/note/test/GetCorigentiTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/note/test/IntegrationTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProiectNoteElevi.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/elevi.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/note.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/controller/NoteController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/main/StartApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/model/Corigent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/model/Elev.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/model/Medie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/model/Nota.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/repository/ClasaRepositoryMock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/repository/EleviRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/repository/EleviRepositoryMock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/repository/NoteRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/repository/NoteRepositoryMock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/utils/ClasaException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/note/utils/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/note/test/AddNotaTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/note/test/CalculeazaMediiTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/note/test/GetCorigentiTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/note/test/IntegrationTest.java" />
-    </list>
+    <list default="true" id="c5f40161-1e41-4841-94b7-53e6c9901961" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -203,7 +151,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -480,15 +428,15 @@
       <workItem from="1521304623991" duration="8762000" />
       <workItem from="1522508820891" duration="95000" />
       <workItem from="1522508981224" duration="391000" />
-      <workItem from="1522509391094" duration="31000" />
+      <workItem from="1522509391094" duration="141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9279000" />
+    <option name="totallyTimeSpent" value="9389000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
