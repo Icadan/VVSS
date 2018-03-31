@@ -1,0 +1,10 @@
+1;Matematica;8.5
+1;Informatica;10.0
+2;Matematica;7.5
+2;Informatica;9.0
+3;Matematica;2.0
+3;Informatica;3.5
+4;Matematica;4.0
+4;Informatica;8.0
+5;Matematica;3.0
+5;Informatica;3.5
